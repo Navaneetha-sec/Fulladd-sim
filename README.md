@@ -79,12 +79,15 @@ Developed by: Register Number*/
 ### Fig 3:Invoke the Cadence Environment
 
 	To Launch Simulation tool 
-
-•	linux:/> nclaunch -new& // “-new” option is used for invoking NCVERILOG for the first time for any design 
+```bash
+•	linux:/> nclaunch -new& // “-new” option is used for invoking NCVERILOG for the first time for any design
+```
 
 or
+```bash
 
-•	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
+•	linux:/> nclaunch& // On subsequent calls to NCVERILOG
+```
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 ![image](https://github.com/user-attachments/assets/de45ae37-f8ed-4d2e-9aaa-316c96f889b2)
