@@ -167,8 +167,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
 ### Fig 9: Elaboration Launch Option
+![Screenshot 2024-10-03 164158](https://github.com/user-attachments/assets/9b1f90a9-8700-4c42-afd0-b53a4c4baf5c)
 
-![Uploading Screenshot 2024-10-03 164158.png…]()
 
 
 ## Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -183,7 +183,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 10: Design Browser window for simulation
 
-![Screenshot 2024-10-03 164250](https://github.com/user-attachments/assets/34bc2871-e02e-416f-b9fa-b500dc6b0162)
+![Screenshot 2024-10-03 164233](https://github.com/user-attachments/assets/178357e0-e7c3-40f3-ba44-aa76eaa9db93)
+
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
