@@ -1,3 +1,5 @@
+# Name : ALTRIN CETRICK
+# Reg No : 212222060015
 # EXP1: 4 Bit Adder functionality verification
 
 ## Aim:
