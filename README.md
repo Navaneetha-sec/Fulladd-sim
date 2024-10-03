@@ -94,6 +94,8 @@ or
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
+![Screenshot 2024-10-03 164107](https://github.com/user-attachments/assets/e728516f-cc04-4ea9-8d67-3324d0b454a3)
+
 ### Fig 5:cds.lib file Creation
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
@@ -116,7 +118,11 @@ or
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
+
+
 ### Fig 7: Nclaunch Window
+![Screenshot 2024-10-03 155253](https://github.com/user-attachments/assets/5913add4-c993-40d7-8868-641279853a97)
+
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -142,6 +148,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Select the test bench and compile it. It will come under worklib. Under Worklib you can see the module and test-bench. 
 
 	The cds.lib file is an ASCII text file. It defines which libraries are accessible and where they are located. It contains statements that map logical library names to their physical directory paths. For this Design, you will define a library called “worklib”
+![Screenshot 2024-10-03 164233](https://github.com/user-attachments/assets/14aae49e-8529-4e11-a53c-b189872a22ab)
+
 
 ## Step 2: Elaboration:– To check the port connections in hierarchical design 
 	Inputs: Top level design / test bench Verilog codes 
@@ -160,6 +168,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 9: Elaboration Launch Option
 
+![Uploading Screenshot 2024-10-03 164158.png…]()
+
+
 ## Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
 	Inputs: Compiled and Elaborated top level module name 
@@ -172,9 +183,14 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 10: Design Browser window for simulation
 
+![Screenshot 2024-10-03 164250](https://github.com/user-attachments/assets/34bc2871-e02e-416f-b9fa-b500dc6b0162)
+
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
+![Screenshot 2024-10-03 164250](https://github.com/user-attachments/assets/34bc2871-e02e-416f-b9fa-b500dc6b0162)
+
 ### Fig 12: Simulation Waveform Window
+![Screenshot 2024-10-03 164256](https://github.com/user-attachments/assets/4be4c3f9-c221-403b-bd36-924db495656d)
 
 
 
