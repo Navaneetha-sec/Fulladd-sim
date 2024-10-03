@@ -71,6 +71,8 @@ Developed by: Register Number*/
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
+![Screenshot 2024-10-03 164035](https://github.com/user-attachments/assets/00d90163-a7cb-496d-a70b-2bc4f8e4af41)
+
 
 ### Fig 3:Invoke the Cadence Environment
 
@@ -83,6 +85,8 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![image](https://github.com/user-attachments/assets/de45ae37-f8ed-4d2e-9aaa-316c96f889b2)
+
 
 ### Fig 4:Setting Multi-step simulation
 
