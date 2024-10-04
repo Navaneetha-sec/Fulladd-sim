@@ -90,7 +90,8 @@ or
 ```
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
-![image](https://github.com/user-attachments/assets/de45ae37-f8ed-4d2e-9aaa-316c96f889b2)
+![Screenshot 2024-10-04 155944](https://github.com/user-attachments/assets/64936a8b-105b-41c4-ac3d-ea83063fe16b)
+
 
 
 ### Fig 4:Setting Multi-step simulation
@@ -99,7 +100,8 @@ or
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
-![Screenshot 2024-10-04 155944](https://github.com/user-attachments/assets/ceb496f5-583c-4e07-8ee9-e61e55403e38)
+![Screenshot 2024-10-03 164107](https://github.com/user-attachments/assets/df7662f9-1604-43b3-9c64-b4d701a1cf55)
+
 
 
 ### Fig 5:cds.lib file Creation
