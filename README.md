@@ -126,7 +126,8 @@ or
 
 
 ### Fig 7: Nclaunch Window
-![Screenshot 2024-10-03 155253](https://github.com/user-attachments/assets/5913add4-c993-40d7-8868-641279853a97)
+![Screenshot 2024-10-03 150551](https://github.com/user-attachments/assets/eaf57de5-e4ad-47be-a977-9606bb8a1f1b)
+
 
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
