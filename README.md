@@ -126,7 +126,8 @@ or
 
 
 ### Fig 7: Nclaunch Window
-![Screenshot 2024-10-03 150551](https://github.com/user-attachments/assets/eaf57de5-e4ad-47be-a977-9606bb8a1f1b)
+![Screenshot 2024-09-26 162549](https://github.com/user-attachments/assets/d3e70e2b-7690-43c3-a2c6-c5678bd2fe48)
+
 
 
 
